@@ -1,1 +1,1 @@
-# cheat
+loadstring(game:HttpGet("yourlink"))()
