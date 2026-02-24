@@ -50,3 +50,25 @@
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fzyraaatod%2Fnightfury-installer&label=VISITORS&countColor=%2300FFAA&labelStyle=upper)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fzyraaatod%2Fnightfury-installer)
 
 </div>
+
+---
+
+## COMBINASI
+### 📊 **Project Statistics**
+
+<div align="center">
+  
+| Metric | Value |
+|:-------|:------|
+| **Stars** | ![GitHub stars](https://img.shields.io/github/stars/zyraaatod/nightfury-installer?style=flat-square&logo=github&color=FFD700) |
+| **Forks** | ![GitHub forks](https://img.shields.io/github/forks/zyraaatod/nightfury-installer?style=flat-square&logo=github&color=00AAFF) |
+| **Watchers** | ![GitHub watchers](https://img.shields.io/github/watchers/zyraaatod/nightfury-installer?style=flat-square&logo=github&color=00FFAA) |
+| **Open Issues** | ![GitHub issues](https://img.shields.io/github/issues/zyraaatod/nightfury-installer?style=flat-square&logo=github&color=FF4444) |
+| **Closed Issues** | ![GitHub closed issues](https://img.shields.io/github/issues-closed/zyraaatod/nightfury-installer?style=flat-square&logo=github&color=44FF44) |
+| **Open PRs** | ![GitHub pull requests](https://img.shields.io/github/issues-pr/zyraaatod/nightfury-installer?style=flat-square&logo=github&color=FFAA00) |
+| **Closed PRs** | ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/zyraaatod/nightfury-installer?style=flat-square&logo=github&color=AAFF00) |
+| **Repo Size** | ![GitHub repo size](https://img.shields.io/github/repo-size/zyraaatod/nightfury-installer?style=flat-square&logo=github&color=9B59B6) |
+| **Code Size** | ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/zyraaatod/nightfury-installer?style=flat-square&logo=github&color=3498DB) |
+| **License** | ![GitHub license](https://img.shields.io/github/license/zyraaatod/nightfury-installer?style=flat-square&logo=opensourceinitiative&color=00FFAA) |
+
+</div>
