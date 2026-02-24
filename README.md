@@ -10,6 +10,7 @@
 ![Docker Pulls](https://img.shields.io/docker/pulls/zyraaatod/nightfury-installer?style=for-the-badge&logo=docker&color=2496ED) 
 
 </div>
+
 ---
 
 ## 📊 **Project Analytics**
