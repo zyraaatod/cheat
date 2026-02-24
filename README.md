@@ -1,3 +1,5 @@
+# Live Stats dengan Badges Dinamis
+
 <div align="center">
   
 ### 📈 **Live Repository Stats**
@@ -12,6 +14,8 @@
 </div>
 
 ---
+
+# Gabungan
 
 ## 📊 **Project Analytics**
 
@@ -53,7 +57,7 @@
 
 ---
 
-## COMBINASI
+# COMBINASI Stat Card
 ### 📊 **Project Statistics**
 
 <div align="center">
@@ -72,3 +76,9 @@
 | **License** | ![GitHub license](https://img.shields.io/github/license/zyraaatod/nightfury-installer?style=flat-square&logo=opensourceinitiative&color=00FFAA) |
 
 </div>
+
+---
+
+# Traffic
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzyraaatod%2Fnightfury-installer&count_bg=%2300FFAA&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
