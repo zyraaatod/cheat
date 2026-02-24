@@ -6,7 +6,7 @@
 
 **📦 Package Stats**
 
-[![npm](https://img.shields.io/npm/dm/nightfury-installer?style=for-the-badge&logo=npm&color=CB3837) *(if published on npm)*
-[![Docker Pulls](https://img.shields.io/docker/pulls/zyraaatod/nightfury-installer?style=for-the-badge&logo=docker&color=2496ED) *(if on Docker Hub)*
+![npm](https://img.shields.io/npm/dm/nightfury-installer?style=for-the-badge&logo=npm&color=CB3837) *(if published on npm)*
+![Docker Pulls](https://img.shields.io/docker/pulls/zyraaatod/nightfury-installer?style=for-the-badge&logo=docker&color=2496ED) *(if on Docker Hub)*
 
 </div>
